@@ -1,0 +1,76 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Launch your SaaS fast with AI.",
+        "linkText": "Explore more",
+        "promotionDetails": "Get 20% off on your first month with We are positioning the AI SaaS Launcher.",
+        "promotionHeadline": "Limited Time Offer"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Effortless Low-Code Customization, Full Control Over Your Codebase, Rapid Onboarding \u0026 Revenue Generation",
+        "title": "Launch Your SaaS MVP with Next-Gen AI Ease"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "announcement": "Announcing our next round of funding.",
+        "cta_primary": "Get started with AI",
+        "cta_secondary": "Learn more about our AI SaaS Launcher",
+        "subtitle": "Introducing the AI SaaS Launcher: a next-gen low-code solution that combines AI-driven customization with full code access for ultimate flexibility. Customize, style, and launch your SaaS MVP quickly and easily.",
+        "title": "Launch Your SaaS in Record Time with AI"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Effortless Low-Code Customization, Full Control Over Your Codebase, Rapid Onboarding \u0026 Revenue Generation",
+        "title": "Launch Your SaaS MVP with Next-Gen AI Ease"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Effortless Low-Code Customization, Full Control Over Your Codebase, Rapid Onboarding \u0026 Revenue Generation",
+        "title": "Launch Your SaaS MVP with Next-Gen AI Ease"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "description": "Unleash the potential of generative AI. Customize, style, and launch your SaaS with unprecedented ease and efficiency.",
+        "linkText": "Launch Now",
+        "titlePart1": "Launch with Confidence.",
+        "titlePart2": "Start Your AI-Driven SaaS Journey Today."
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Effortless Low-Code Customization, Full Control Over Your Codebase, Rapid Onboarding \u0026 Revenue Generation",
+        "title": "Launch Your SaaS MVP with Next-Gen AI Ease"
+      }
+    },
+    {
+      "id": "CtaSimpleJustified",
+      "variables": {
+        "linkText1": "Launch your SaaS",
+        "linkText2": "Learn more about AI SaaS Launcher",
+        "titlePart1": "Ready to launch your SaaS?",
+        "titlePart2": "Let AI do the heavy lifting."
+      }
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Launch Your SaaS MVP with Next-Gen AI Ease",
+  "subtitle": "Effortless Low-Code Customization, Full Control Over Your Codebase, Rapid Onboarding \u0026 Revenue Generation"
+}
